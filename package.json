@@ -1,0 +1,24 @@
+{
+  "name": "newman-api-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node report.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aladnansami/Demoney_Postman_API_Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aladnansami/Demoney_Postman_API_Testing/issues"
+  },
+  "homepage": "https://github.com/aladnansami/Demoney_Postman_API_Testing#readme",
+  "dependencies": {
+    "newman": "^5.3.2",
+    "newman-reporter-htmlextra": "^1.22.10"
+  }
+}
