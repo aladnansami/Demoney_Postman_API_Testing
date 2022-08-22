@@ -1,9 +1,9 @@
 # Demoney_Postman_API_Testing
 <br><b>Postman collection </b>: <i> https://www.getpostman.com/collections/c201b6d467421000d6da</i>
 <br>
-# IDE
+## IDE
 postman
-<br>
+<br><br><br>
 <img src="https://github.com/aladnansami/Demoney_Postman_API_Testing/blob/main/collection/newman-01.png">
 
 ## How to run this project in postman ?
